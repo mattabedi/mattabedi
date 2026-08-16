@@ -9,7 +9,7 @@ My work spans hands-on development, frontend architecture, performance optimizat
 
 I’m especially interested in the problems behind the UI—simplifying complex frontend systems, improving developer workflows, and creating architecture that enables teams to deliver high-quality experiences with less friction.
 
-## Technical Skills
+## Technical Skills 🧑‍💻
 
 **Languages:** JavaScript, TypeScript, Ruby<br>
 **Frameworks & Libraries:** React, Ruby on Rails, Next.js, Tailwind CSS, Bootstrap<br>
