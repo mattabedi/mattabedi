@@ -11,6 +11,17 @@ I’m especially interested in the problems behind the UI: simplifying complex f
 
 I enjoy operating at the intersection of engineering, design, and strategy, remaining hands-on while helping teams make better technical decisions and build frontend systems that can evolve over time.
 
+## Technical Skills
+
+Languages: JavaScript, TypeScript, Ruby<br>
+Frameworks & Libraries: React, Ruby on Rails, Next.js<br>
+Tools & Platforms: GitHub, GitHub Actions, Nx, Storybook, Figma, Vite, Webpack, Node.js, AWS, Docker, CircleCI
+Databases: MySQL, PostgreSQL<br>
+Testing: Jest, React Testing Library, Playwright, Selenium, Capybara<br>
+AI: Cursor, Claude, Codex, MCP<br>
+Focus: Frontend Architecture, Design Systems, Component Architecture, Developer Experience, Web Performance, Accessibility<br>
+
+
 <!--
 **mattabedi/mattabedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
