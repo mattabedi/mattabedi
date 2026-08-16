@@ -13,13 +13,13 @@ I enjoy operating at the intersection of engineering, design, and strategy, rema
 
 ## Technical Skills
 
-Languages: JavaScript, TypeScript, Ruby<br>
-Frameworks & Libraries: React, Ruby on Rails, Next.js<br>
-Tools & Platforms: GitHub, GitHub Actions, Nx, Storybook, Figma, Vite, Webpack, Node.js, AWS, Docker, CircleCI
-Databases: MySQL, PostgreSQL<br>
-Testing: Jest, React Testing Library, Playwright, Selenium, Capybara<br>
-AI: Cursor, Claude, Codex, MCP<br>
-Focus: Frontend Architecture, Design Systems, Component Architecture, Developer Experience, Web Performance, Accessibility<br>
+**Languages:** JavaScript, TypeScript, Ruby<br>
+**Frameworks & Libraries:** React, Ruby on Rails, Next.js<br>
+**Tools & Platforms:** GitHub, GitHub Actions, Nx, Storybook, Figma, Vite, Webpack, Node.js, AWS, Docker, CircleCI
+**Databases:** MySQL, PostgreSQL<br>
+**Testing:** Jest, React Testing Library, Playwright, Selenium, Capybara<br>
+**AI:** Cursor, Claude, Codex, MCP<br>
+**Focus:** Frontend Architecture, Design Systems, Component Architecture, Developer Experience, Web Performance, Accessibility<br>
 
 
 <!--
