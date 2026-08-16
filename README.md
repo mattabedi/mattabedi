@@ -13,7 +13,7 @@ I’m especially interested in the problems behind the UI—simplifying complex 
 
 **Languages:** JavaScript, TypeScript, Ruby<br>
 **Frameworks & Libraries:** React, Ruby on Rails, Next.js, Tailwind CSS, Bootstrap<br>
-**Tools & Platforms:** GitHub, GitHub Actions, Nx, Storybook, Figma, Vite, Webpack, Node.js, AWS, Docker, CircleCI
+**Tools & Platforms:** GitHub, GitHub Actions, Nx, Storybook, Figma, Vite, Webpack, Node.js, AWS, Docker, CircleCI<br>
 **Databases:** MySQL, PostgreSQL<br>
 **Testing:** Jest, React Testing Library, Playwright, Selenium, Capybara<br>
 **AI:** Cursor, Claude, Codex, MCP<br>
