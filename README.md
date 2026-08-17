@@ -16,7 +16,6 @@ I’m especially interested in the problems behind the UI—simplifying complex 
 **Databases:** MySQL, PostgreSQL<br>
 **Testing:** Jest, React Testing Library, Selenium, Capybara<br>
 **AI:** Cursor, Claude, Codex, MCP<br>
-**Focus:** Frontend Architecture, Design Systems, Component Architecture, Developer Experience, Web Performance, Accessibility<br>
 
 ## 🎯 Areas of Focus
 - Frontend Architecture
