@@ -39,7 +39,9 @@ I’m especially interested in the problems behind the UI—simplifying complex 
 
 ## 🔗 Connect
 
-Want to connect? Find me on [LinkedIn](https://www.linkedin.com/in/mattabedi).
+Want to connect? Message me on [LinkedIn](https://www.linkedin.com/in/mattabedi).
+
+Interested in what I'm thinking about? Check out [my blog](https://mattabedi.com/).
 <!--
 **mattabedi/mattabedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
